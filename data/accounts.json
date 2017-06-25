@@ -1,0 +1,27 @@
+{
+    "accounts": [{
+        "name": "Personal bank account",
+        "type": "payment",
+        "balance": 1500
+    }, {
+        "name": "Joint bank account",
+        "type": "payment",
+        "balance": 203.45
+    }, {
+        "name": "Savings account",
+        "type": "savings",
+        "balance": 8750.12
+    }, {
+        "name": "Investment account",
+        "type": "investment",
+        "balance": 2150
+    }, {
+        "name": "College funds",
+        "type": "savings",
+        "balance": 29810.25
+    }, {
+        "name": "Stocks account",
+        "type": "investment",
+        "balance": 0
+    }]
+}
